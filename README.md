@@ -1,5 +1,4 @@
 # InvestecTestApp
-Hi I am Nokuthula Ndlovu
 package HighestCommonFactor;
 
 import java.util.Arrays;
